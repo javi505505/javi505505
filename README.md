@@ -3,7 +3,7 @@
 - 📍 I'm from Seville
 - 😄 Pronouns: He/his
 - 💬 Ask me about history of Spain
-- 📃 I was study History in University of Seville
+- 📃 I studied History at University of Seville
 <!--
 **javi505505/javi505505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
